@@ -195,13 +195,6 @@ This project is for educational and competition purposes. Please respect the com
 - Features real-world inspired clinical data patterns
 - Submission format strictly follows competition guidelines
 
-## 👥 Team Guidelines (For Reference)
-
-- Teams: 2-5 members registered under Idealize 2025
-- Naming: `<YourTeamName>_<TeamLeaderFirstName>_ID25`
-- Deadline: Model submission by July 11, 2025, 11:59 PM
-- Final predictions due by competition end: July 15, 2025
-
 ## 📞 Contact
 
 For questions about this implementation:
